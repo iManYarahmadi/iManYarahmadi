@@ -40,8 +40,8 @@
 
 ### Tech Stack
 
-- **Frameworks & Tools**: Flutter, Dart
-- **Languages**: Dart, JavaScript, HTML, CSS
+- **Frameworks & Tools**: Flutter
+- **Languages**: Dart
 - **Version Control**: Git, GitHub
 - **Other Skills**: Firebase, RESTful APIs, GitHub Actions, Unit & Widget Testing
 
