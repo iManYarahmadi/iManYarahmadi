@@ -26,7 +26,6 @@
 - 👋 Hi, I’m **@iManYarahmadi**
 - 👨‍💻 **Flutter Developer** — I’m passionate about creating beautiful, high-performance mobile applications using Flutter.
 - 🌱 Currently learning and mastering **Flutter**. I'm always exploring new ways to push the limits of mobile development.
-- 💡 Interested in **mobile app architecture**, **UI/UX design**, and **optimizing performance** in mobile apps.
 - 💼 Actively seeking opportunities to collaborate and contribute to exciting projects.
 
 ---
